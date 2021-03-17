@@ -1,7 +1,17 @@
 # 2021 MARCH
 
-## 20210310 WED
+## 0315-0321
 
-- [x] 데이터사이언스 2주차
+- [x] DataScience hw 5,6,7
 
-- [x] 자바 과제 3, 4
+- [x] JavaStudy git Upload
+
+- [x] Lab) 타이타닉 튜토리얼 분석
+
+- [x] Class) DataScience 3
+
+- [x] Class) 선형대수학 1-2주차
+
+- [x] Class) 디지털공학 2-3주차
+
+- [x] Class) 자료구조 1-3주차
