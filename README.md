@@ -16,8 +16,12 @@
   <a href="mailto:eunmiee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eunmiee@gmail.com"/></a>
 </p>
 
-
-![Eummi's Github Stats](https://github-readme-stats.vercel.app/api?username=jum0624&show_icons=true)
+<h3 align="center">👩‍💻 Eunmi's Github Stats 👩‍💻</h3>
+<div align="center">
+  
+![Eummi's Github Stats](https://github-readme-stats.vercel.app/api?username=jum0624&show_icons=true&hide_title=true&theme=flag-india)
+  
+</div>
 
 <!--
 **jum0624/jum0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
