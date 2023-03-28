@@ -19,7 +19,8 @@
 <h3 align="center">👩‍💻 Eunmi's Github Stats 👩‍💻</h3>
 <div align="center">
   
-![Eummi's Github Stats](https://github-readme-stats.vercel.app/api?username=jum0624&show_icons=true&hide_title=true&theme=flag-india)
+[![Eummi's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jum0624&show_icons=true&hide_title=true&theme=flag-india)](https://github.com/jum0624/github-readme-stats)
+
   
 </div>
 
