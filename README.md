@@ -1,8 +1,6 @@
-# Hi there 👋
+### Hi there 👋
 
 <p align="center">Hi! I'm Eunmi</p>
-
-## 이런 환경에 익숙해요✍🏼
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
