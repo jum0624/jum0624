@@ -1,6 +1,8 @@
+# Hi there 👋
 
-<h3 align="center">👋 Hi there 👋</h3>
 <p align="center">Hi! I'm Eunmi</p>
+
+## 이런 환경에 익숙해요✍🏼
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -21,20 +23,6 @@
   
 [![Eummi's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jum0624&show_icons=true&hide_title=true&theme=flag-india)](https://github.com/jum0624/github-readme-stats)
 
-  
-</div>
+## 📕 Latest Blog Posts
 
-<!--
-**jum0624/jum0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=https://wldmsal.tistory.com/10>여러 개의 서버를 다루는 방법? Docker Compose, Docker Swarm</a></br><a href=https://wldmsal.tistory.com/9>도커는 컨테이너인가요? 도커(Docker)란?(feat. 가상화)</a></br><a href=https://wldmsal.tistory.com/8>2023을 마치며, 그리고 2024를 시작하며..</a></br><a href=https://wldmsal.tistory.com/7>DNS가 단순 도메인이 아니였다고? DNS란? (feat. Rocky Linux)</a></br><a href=https://wldmsal.tistory.com/6>[Network] 네트워크란?</a></br>
