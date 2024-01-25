@@ -23,4 +23,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://wldmsal.tistory.com/11>사설 IP로 인터넷을 접속하려면 어떻게 하는걸까? NAT란?(with AWS)</a></br><a href=https://wldmsal.tistory.com/10>여러 개의 서버를 다루는 방법? Docker Compose, Docker Swarm</a></br><a href=https://wldmsal.tistory.com/9>도커는 컨테이너인가요? 도커(Docker)란?(feat. 가상화)</a></br><a href=https://wldmsal.tistory.com/8>2023을 마치며, 그리고 2024를 시작하며..</a></br><a href=https://wldmsal.tistory.com/7>DNS가 단순 도메인이 아니였다고? DNS란? (feat. Rocky Linux)</a></br>
+<a href=https://wldmsal.tistory.com/12>AWS를 이용하여 환경을 구축해보며 네트워크에 대해 알아보자!</a></br><a href=https://wldmsal.tistory.com/11>사설 IP로 인터넷을 접속하려면 어떻게 하는걸까? NAT란?(with AWS)</a></br><a href=https://wldmsal.tistory.com/10>여러 개의 서버를 다루는 방법? Docker Compose, Docker Swarm</a></br><a href=https://wldmsal.tistory.com/9>도커는 컨테이너인가요? 도커(Docker)란?(feat. 가상화)</a></br><a href=https://wldmsal.tistory.com/8>2023을 마치며, 그리고 2024를 시작하며..</a></br>
