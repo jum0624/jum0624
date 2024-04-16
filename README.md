@@ -8,12 +8,17 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>&nbsp 
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp 
+</p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://wldmsal.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://wldmsal.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/wldmsal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunmi_ee/"/></a>&nbsp
-  <a href="mailto:jum0624@inu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eunmiee@gmail.com"/></a>
+  <a href="https://www.instagram.com/wldmsal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wldmsal_/"/></a>&nbsp
+  <a href="mailto:jum0624@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jum0624@naver.com"/></a>
 </p>
 
 <h3 align="center">👩‍💻 Eunmi's Github Stats 👩‍💻</h3>
