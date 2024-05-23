@@ -28,4 +28,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://wldmsal.tistory.com/14>[회고] &quot;뚜레쥬르 커머설 플랫폼 인프라 구축&quot; 프로젝트가 궁금해?</a></br><a href=https://wldmsal.tistory.com/13>뒤늦게 적어보는 cloudwave 회고록 !</a></br><a href=https://wldmsal.tistory.com/12>AWS를 이용하여 환경을 구축해보며 네트워크에 대해 알아보자!</a></br><a href=https://wldmsal.tistory.com/11>사설 IP로 인터넷을 접속하려면 어떻게 하는걸까? NAT란?(with AWS)</a></br><a href=https://wldmsal.tistory.com/10>여러 개의 서버를 다루는 방법? Docker Compose, Docker Swarm</a></br>
+<a href=https://wldmsal.tistory.com/15>Refactoring은 극단적으로 해볼수록 더욱 성장한다 ! (feat. TDD)</a></br><a href=https://wldmsal.tistory.com/14>[회고] &quot;뚜레쥬르 커머설 플랫폼 인프라 구축&quot; 프로젝트가 궁금해?</a></br><a href=https://wldmsal.tistory.com/13>뒤늦게 적어보는 cloudwave 회고록 !</a></br><a href=https://wldmsal.tistory.com/12>AWS를 이용하여 환경을 구축해보며 네트워크에 대해 알아보자!</a></br><a href=https://wldmsal.tistory.com/11>사설 IP로 인터넷을 접속하려면 어떻게 하는걸까? NAT란?(with AWS)</a></br>
