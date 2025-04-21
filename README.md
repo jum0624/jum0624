@@ -17,7 +17,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://wldmsal.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://wldmsal.tistory.com/"/></a>&nbsp
-<!--   <a href="https://www.instagram.com/wldmsal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wldmsal_/"/></a>&nbsp -->
+  <a href="https://www.instagram.com/wldmsal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wldmsal_/"/></a>&nbsp
   <a href="mailto:jum0624@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jum0624@naver.com"/></a>
 </p>
 
@@ -28,4 +28,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://wldmsal.tistory.com/15>Refactoring은 극단적으로 해볼수록 더욱 성장한다 ! (feat. TDD)</a></br><a href=https://wldmsal.tistory.com/14>[회고] &quot;뚜레쥬르 커머설 플랫폼 인프라 구축&quot; 프로젝트가 궁금해?</a></br><a href=https://wldmsal.tistory.com/13>뒤늦게 적어보는 cloudwave 회고록 !</a></br><a href=https://wldmsal.tistory.com/12>AWS를 이용하여 환경을 구축해보며 네트워크에 대해 알아보자!</a></br><a href=https://wldmsal.tistory.com/11>사설 IP로 인터넷을 접속하려면 어떻게 하는걸까? NAT란?(with AWS)</a></br>
+<a href=https://wldmsal.tistory.com/20>간단한 티켓팅 시스템을 구현하여 동시성 문제 경험해보자 !</a></br><a href=https://wldmsal.tistory.com/15>Refactoring은 극단적으로 해볼수록 더욱 성장한다 ! (feat. TDD)</a></br><a href=https://wldmsal.tistory.com/14>[회고] &quot;뚜레쥬르 커머설 플랫폼 인프라 구축&quot; 프로젝트가 궁금해?</a></br><a href=https://wldmsal.tistory.com/13>뒤늦게 적어보는 cloudwave 회고록 !</a></br><a href=https://wldmsal.tistory.com/12>AWS를 이용하여 환경을 구축해보며 네트워크에 대해 알아보자!</a></br>
